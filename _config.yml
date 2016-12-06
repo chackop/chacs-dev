@@ -10,10 +10,12 @@ locale                   : "en"
 title                    : "Chackos Dev Site"
 title_separator          : "-"
 name                     : "Chacko"
-description              : "A dev site"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "A dev blog that I started as a protfolio page and later on to keep logging my experience and learning of new technologies and concept"
+# the base hostname & protocol for your site e.g. "https://myname.github.io"
+url                      : "https://chackop.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+# GitHub username/repo-name e.g. "myname/mynamerepo"
+repository               : "https://github.com/chackop/"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,11 +79,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Chacko"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am an ambitious problem solver with a passion for learning, online businesses, teamwork and who would like to join a team of like-minded individual."
+  location         : "London"
+  email            : "chackop@gmail.com'"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,18 +91,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/chackop" 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://uk.linkedin.com/in/chackopanikulam"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/chacsify"
   vine             :
   weibo            :
   xing             :
@@ -220,6 +222,13 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+# defaults:
+#   # _pages
+#   - scope:
+#       path: ""
+#       type: pages
+#     values:
+#       layout: single
 
 # HTML Compression
 # - http://jch.penibelst.de/
