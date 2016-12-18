@@ -222,13 +222,13 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-# defaults:
-#   # _pages
-#   - scope:
-#       path: ""
-#       type: pages
-#     values:
-#       layout: single
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
 
 # HTML Compression
 # - http://jch.penibelst.de/
