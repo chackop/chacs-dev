@@ -1,8 +1,8 @@
 # main links links
 main:
   - title: "Professional"
-    url: /_pages/professional.md
+    url: professional
   - title: "Personal Projects"
-    url: /_pages/personalprojects.md
+    url: personalprojects
   - title: "Coming Soon"
     url: https://chax-dev.com/
