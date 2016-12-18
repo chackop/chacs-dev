@@ -6,10 +6,13 @@ sitemap: false
 permalink: /personalprojects.html
 ---
 
-This is my Personal Projects page
-
-<a href="https://github.com/chackop/chax-asp.net-core">ASP.NET CORE</a>
-<a href="https://github.com/chackop/chax-mean-app">MEAN APP</a>
+This is my first draft of Personal Projects page
+<div>
+  <a href="https://github.com/chackop/chax-asp.net-core">ASP.NET CORE</a>
+</div>
+<div>
+  <a href="https://github.com/chackop/chax-mean-app">MEAN APP</a>
+</div>
 
 <script type="text/javascript">
   var GOOG_FIXURL_LANG = 'en';

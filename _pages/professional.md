@@ -6,7 +6,7 @@ sitemap: false
 permalink: /professional.html
 ---
 
-This is my professional page
+This is my first draft of professional page
 
 <h2>Skills</h2>
 <ul>
