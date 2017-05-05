@@ -7,12 +7,14 @@ permalink: /personalprojects.html
 ---
 
 This is my first draft of Personal Projects page
-<div>
-  <a href="https://github.com/chackop/chax-asp.net-core">ASP.NET CORE</a>
-</div>
-<div>
-  <a href="https://github.com/chackop/chax-mean-app">MEAN APP</a>
-</div>
+<ul>
+  <li>   
+    <a href="https://github.com/chackop/chax-asp.net-core">ASP.NET CORE</a>
+  </li>
+  <li>
+    <a href="https://github.com/chackop/chax-mean-app">MEAN APP</a>
+  </li>
+</ul>
 
 <script type="text/javascript">
   var GOOG_FIXURL_LANG = 'en';
